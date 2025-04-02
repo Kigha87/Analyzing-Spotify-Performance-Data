@@ -1,7 +1,7 @@
 # Analyzing-Spotify-Performance-Data-Project
 
 
-Analyzing Spotify's performance using Tableau dashboards for Strategy, Revenue, and Operations teams.
+Analyzing Spotify's performance using Tableau dashboards for User growth and strategy, Revenue, and Operational stakeholders.
 
 ## Table of Contents
 - [About the Project](#about-the-project)
@@ -13,17 +13,15 @@ Analyzing Spotify's performance using Tableau dashboards for Strategy, Revenue, 
 
 ## About the Project
 This project analyzes Spotify's performance data to generate insights for:
-- **Strategy Team:** User growth trends for premium and ad-supported users.
-- **Revenue Team:** Revenue performance, ARPU trends, and monetization strategies.
-- **Operations Team:** KPIs to optimize operations and user experience.
+- **User growth and strategy stakeholder:** User growth trends for premium and ad-supported users.
+- **Revenue stakeholder:** Revenue performance, ARPU trends, and monetization strategies.
+- **Operational stakeholder:** KPIs to optimize operations and user experience.
 
 
 Dashboards are built using **Tableau** for clear data visualization.
 
-## Data Sources
-- **Spotify Public Data:** Available via [Spotify API](https://developer.spotify.com/)
-- **Company Reports:** Extracted from Spotify's financial reports.
-- **Other:** CSV datasets for historical user data.
+## Data Source
+- **Spotify Data:** Available to us by our instructors 
 
 
 ## Tableau Dashboards
@@ -33,7 +31,7 @@ Here are the key dashboards:
 *User growth trends over time (premium vs. ad-supported).*
 
 ### Revenue Dashboard
-*Revenue trends, ARPU, and monetization insights.*
+*Revenue trends, ARPU, and insights.*
 
 ### Operations Dashboard
 *Operational KPIs including churn rate, engagement, and service quality.*
