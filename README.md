@@ -5,7 +5,7 @@ Analyzing Spotify's performance using Tableau dashboards for User growth and str
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Data Sources](#data-sources)
+- [Data Source](#data-source)
 - [Tableau Dashboards](#tableau-dashboards)
 - [Key Insights](#key-insights)
 - [Setup & Usage](#setup--usage)
