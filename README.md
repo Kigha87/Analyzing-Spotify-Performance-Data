@@ -27,6 +27,8 @@ Dashboards are built using **Tableau** for clear data visualization.
 ## Tableau Dashboards
 Here are the key dashboards:
 
+https://public.tableau.com/app/profile/kigha.mohmbah.darel.evrard/viz/Spotify_Project_17435342479880/Dashboard1
+
 ### Strategy Dashboard
 *User growth trends over time (premium vs. ad-supported).*
 
