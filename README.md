@@ -5,10 +5,9 @@ Analyzing Spotify's performance using Tableau dashboards for User growth and str
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Data Source](#data-source)
 - [Tableau Dashboards](#tableau-dashboards)
 - [Key Insights](#key-insights)
-- [Setup & Usage](#setup--usage)
+- [Recommendations](#recommendations)
 
 
 ## About the Project
@@ -20,8 +19,7 @@ This project analyzes Spotify's performance data to generate insights for:
 
 Dashboards are built using **Tableau** for clear data visualization.
 
-## Data Source
-- **Spotify Data:** Available to us by our instructors 
+
 
 
 ## Tableau Dashboards
@@ -30,34 +28,43 @@ Here are the key dashboards:
 https://public.tableau.com/app/profile/kigha.mohmbah.darel.evrard/viz/Spotify_Project_17435342479880/Dashboard1
 
 ### Strategy Dashboard
-*User growth trends over time (premium vs. ad-supported).*
+Key KPIs include
+*Ad MAUs, Conversion Rate, MAUs and Premium MAUs.*
 
 <img width="667" alt="Screenshot 2025-04-01 at 19 36 26" src="https://github.com/user-attachments/assets/bc93a698-48e5-4bd4-a73b-4dea3872d5eb" />
 
 
 ### Revenue Dashboard
-*Revenue trends, ARPU, and insights.*
+Key KPIs
+*Premium Revenue, Premium ARPU, Gross Profit Margin and Premium Revenue Profitability.*
 
 <img width="1327" alt="Screenshot 2025-04-01 at 19 35 49" src="https://github.com/user-attachments/assets/bc189df5-d4a2-4b3b-8fb2-4662c1a0dde3" />
 
 
 ### Operations Dashboard
-*Operational KPIs including churn rate, engagement, and service quality.*
+*Operational KPIs including , Cost-to-Revenue Ratio, Marketing ROI, Operational Margin, and R&D Cost Efficiency.*
 
 <img width="669" alt="Screenshot 2025-04-01 at 19 37 01" src="https://github.com/user-attachments/assets/1bda747b-1a87-4b23-93a0-084969a63a57" />
 
 
 ## Key Insights
-- **User Growth:** Premium users have a 10% YoY growth, while ad-supported users fluctuate with seasonal trends.
-- **Revenue:** ARPU has declined due to regional pricing changes.
-- **Operations:** Churn rate is highest in Q1, possibly due to subscription fatigue post-holidays.
+- **User Growth:** Spotify experienced steady growth in both Ad and Premium MAUs from 2017 to 2022, peaking in 2022 but faced a sharp decline in 2023
+  across all user types and revenue metrics. total MAUs reached 7368 and the conversion rate remained strong at 3271, Premium ARPU dropped drastically
+  from 19.80 in 2022 to 3.2 in 2023, signaling potential loss of high-value users. this sudden downturn in 2023 suggests underlying issues that require
+  immediate attention to sustain user engagement and revenue growth.
+  
+- **Revenue Optimization:** Spotif's Premium revenue and ARPU showed consistent growth from 2017 to 2022, peaking at 10,251 and then sharply dropping to 2,713 in 2023
+  Gross Profit Margin and Revenue Profitability  followed a similar trend, declining significantly in 2023. This indicates a major drop in financial efficiency.
+  
+- **Operational Efficiency:** Spotif's operational metrics showed consistent improvement from 2017 to 2022, with operational margin peaking and R&D cost efficiency reaching 10,247.
+  The cost-to-revenue ratio remained relatively stable across quaters but is still moderately high. Marketing ROI climbed steadily before sharply falling in 2023
+  suggesting that recent investments are yielding lower returns.
 
-## Setup & Usage
-1. **Download Data**: Clone this repo and download the data.
-2. **Open in Tableau**: Load the data files into Tableau.
-3. **Explore Dashboards**: Interact with the dashboards to gain insights.
+## Recommendations
 
-```bash
-git clone https://github.com/yourusername/spotify-performance.git
-cd spotify-performance
-```
+- Spotify's should reassess its 2023 strategy by investigating the causes behind the sharp decline in user growth, revenue, and profitability.
+- Revamping premium pricing or retention strategies may help recover ARPU and stabilize conversion rates.
+- Optimizing marketing ROI and cost efficiency.
+- Investing in data-driven customer insights and targeted product innovation could restore growth and financial performance.
+
+
