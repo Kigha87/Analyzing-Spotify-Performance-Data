@@ -5,9 +5,9 @@ Analyzing Spotify's performance using Tableau dashboards for User growth and str
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Tableau Dashboards](#tableau-dashboards)
-- [Key Insights](#key-insights)
-- [Recommendations](#recommendations)
+- [Tableau Dashboards Overview](#tableau-dashboards-overview)
+- [Executive Summary and Recommendations](#executive-summary-and-recommendations)
+  
 
 
 ## About the Project
@@ -47,7 +47,11 @@ Key KPIs
 <img width="669" alt="Screenshot 2025-04-01 at 19 37 01" src="https://github.com/user-attachments/assets/1bda747b-1a87-4b23-93a0-084969a63a57" />
 
 
-## Key Insights
+## Executive Summary and Recommendations
+This analysis of Spotify’s business performance from 2017 to 2023 reveals key trends across revenue, user growth, and operational efficiency. 
+The dashboards were tailored to address the needs of three stakeholders: Strategy, Revenue, and Operations.
+
+Key Insights
 - **User Growth:** Spotify experienced steady growth in both Ad and Premium MAUs from 2017 to 2022, peaking in 2022 but faced a sharp decline in 2023
   across all user types and revenue metrics. total MAUs reached 7368 and the conversion rate remained strong at 3271, Premium ARPU dropped drastically
   from 19.80 in 2022 to 3.2 in 2023, signaling potential loss of high-value users. this sudden downturn in 2023 suggests underlying issues that require
@@ -60,7 +64,7 @@ Key KPIs
   The cost-to-revenue ratio remained relatively stable across quaters but is still moderately high. Marketing ROI climbed steadily before sharply falling in 2023
   suggesting that recent investments are yielding lower returns.
 
-## Recommendations
+ Recommendations
 
 - Spotify's should reassess its 2023 strategy by investigating the causes behind the sharp decline in user growth, revenue, and profitability.
 - Revamping premium pricing or retention strategies may help recover ARPU and stabilize conversion rates.
