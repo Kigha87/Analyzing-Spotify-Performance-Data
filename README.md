@@ -4,11 +4,14 @@
 Analyzing Spotify's performance using Tableau dashboards for User growth and strategy, Revenue, and Operational stakeholders.
 
 ## Table of Contents
+- [Introduction](#introduction)
 - [About the Project](#about-the-project)
 - [Tableau Dashboards Overview](#tableau-dashboards-overview)
 - [Executive Summary and Recommendations](#executive-summary-and-recommendations)
   
-
+## Introduction
+This project simulates a real-world BI analyst task at Spotify, focusing on financial and user data from 2017 to 2023. 
+You will analyze Spotify's revenue streams, cost structure, and user engagement through Tableau visualizations to deliver actionable insights to key stakeholders.
 
 ## About the Project
 This project analyzes Spotify's performance data to generate insights for:
@@ -18,8 +21,6 @@ This project analyzes Spotify's performance data to generate insights for:
 
 
 Dashboards are built using **Tableau** for clear data visualization.
-
-
 
 
 ## Tableau Dashboards
