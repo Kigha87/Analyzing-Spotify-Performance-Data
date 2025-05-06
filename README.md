@@ -32,21 +32,21 @@ https://public.tableau.com/app/profile/kigha.mohmbah.darel.evrard/viz/Spotify_Pr
 Key KPIs include
 *Ad MAUs, Conversion Rate, MAUs and Premium MAUs.*
 
-<img width="667" alt="Screenshot 2025-04-01 at 19 36 26" src="https://github.com/user-attachments/assets/bc93a698-48e5-4bd4-a73b-4dea3872d5eb" />
+<img width="1503" alt="Screenshot 2025-05-06 at 09 03 11" src="https://github.com/user-attachments/assets/5a2141f8-e38f-4aaf-a555-bc883d59bebc" />
+
 
 
 ### Revenue Dashboard
 Key KPIs
 *Premium Revenue, Premium ARPU, Gross Profit Margin and Premium Revenue Profitability.*
 
-<img width="1327" alt="Screenshot 2025-04-01 at 19 35 49" src="https://github.com/user-attachments/assets/bc189df5-d4a2-4b3b-8fb2-4662c1a0dde3" />
+<img width="1496" alt="Screenshot 2025-05-06 at 09 04 30" src="https://github.com/user-attachments/assets/c5a0d5db-905c-4c8f-a63e-bda414e77afc" />
 
 
 ### Operations Dashboard
 *Operational KPIs including , Cost-to-Revenue Ratio, Marketing ROI, Operational Margin, and R&D Cost Efficiency.*
 
-<img width="669" alt="Screenshot 2025-04-01 at 19 37 01" src="https://github.com/user-attachments/assets/1bda747b-1a87-4b23-93a0-084969a63a57" />
-
+<img width="1504" alt="Screenshot 2025-05-06 at 09 01 45" src="https://github.com/user-attachments/assets/24b5bf17-8f66-4c21-b32f-50d18fca6047" />
 
 ## Executive Summary and Recommendations
 This analysis of Spotify’s business performance from 2017 to 2023 reveals key trends across revenue, user growth, and operational efficiency. 
